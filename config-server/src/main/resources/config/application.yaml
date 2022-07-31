@@ -14,3 +14,7 @@ spring:
               uri: https://github.com/rseroter/pluralsight-spring-cloudconfig-wa-tolls-perf-2
               search-paths:
                 - station*
+  security:
+    user:
+      name: mahmoud
+      password: fawzy
