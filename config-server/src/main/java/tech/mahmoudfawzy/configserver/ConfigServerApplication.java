@@ -1,13 +1,13 @@
-package tech.mahmoudfawzy.psms01;
+package tech.mahmoudfawzy.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Seroter01Application {
+public class ConfigServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Seroter01Application.class, args);
+        SpringApplication.run(ConfigServerApplication.class, args);
     }
 
 }

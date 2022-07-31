@@ -1,10 +1,10 @@
-package tech.mahmoudfawzy.psms01;
+package tech.mahmoudfawzy.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Seroter01ApplicationTests {
+class ConfigServerApplicationTests {
 
     @Test
     void contextLoads() {
